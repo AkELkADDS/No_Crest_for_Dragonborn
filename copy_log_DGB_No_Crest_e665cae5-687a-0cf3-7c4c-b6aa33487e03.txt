@@ -1,0 +1,277 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
+   Mon 05/19/2025  6:53:37.49 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\Assets\Textures\Icons\DGB_No_Crest_Atlas.dds 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\Content\[PAK]_DGB_No_Crest\ffcd331b-ad33-4d2f-5122-dd249f1288c7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\GUI\DGB_No_Crest_Atlas.lsx 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03: 4 
+ 
+[LOG] Total files found across all folders: 11 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\Projects\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 to Projects\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
+[DEBUG] Using destination: Projects\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:53:41 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\Projects\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     690	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\meta.lsx100%  
+	    New File  		   6.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\thumbnail.png  7%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    6.65 m    6.65 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           2326771000 Bytes/sec.
+   Speed :           133138.904 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:53:41 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\Editor\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 to "Editor\Mods"\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
+[DEBUG] Using destination: Editor\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:53:42 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\Editor\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   11343	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\CharacterCreation\CharacterCreationAppearanceVisuals.tbl  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    11.0 k    11.0 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 6:53:42 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 to Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
+[DEBUG] Using destination: Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:53:44 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    4058	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\meta.lsx100%  
+	    New File  		   6.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\mod_publish_logo.png 15%  100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\GUI\metadata.lsf100%  
+	    New File  		     903	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    6.66 m    6.66 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           3492862500 Bytes/sec.
+   Speed :           199863.195 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:53:44 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 to Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
+[DEBUG] Using destination: Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:53:46 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    8043	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		    4617	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\GUI\DGB_No_Crest_Atlas.lsx100%  
+	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\Assets\Textures\Icons\DGB_No_Crest_Atlas.dds100%  
+	    New File  		    1579	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\Content\[PAK]_DGB_No_Crest\ffcd331b-ad33-4d2f-5122-dd249f1288c7.lsf100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         8         8         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :   355.3 k   355.3 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            51988428 Bytes/sec.
+   Speed :            2974.801 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:53:46 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 11 
+[SUMMARY] Total files successfully copied: 22 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
