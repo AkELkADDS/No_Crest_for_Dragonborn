@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03 
-   Fri 03/06/2026 11:10:54.02 
+   Fri 03/06/2026 11:34:03.44 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -95,7 +95,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, March 6, 2026 11:10:56 AM
+  Started : Friday, March 6, 2026 11:34:06 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\Projects\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\
 
@@ -106,7 +106,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     690	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\meta.lsx100%  
-	    New File  		   6.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\thumbnail.png 15%  100%  
+	    New File  		   6.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\thumbnail.png  7%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -119,7 +119,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           3490156500 Bytes/sec.
    Speed :           199708.356 MegaBytes/min.
-   Ended : Friday, March 6, 2026 11:10:56 AM
+   Ended : Friday, March 6, 2026 11:34:06 AM
 
  
 [DEBUG] Counting source files 
@@ -145,7 +145,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, March 6, 2026 11:10:58 AM
+  Started : Friday, March 6, 2026 11:34:08 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\Editor\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\
 
@@ -164,7 +164,7 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :    11.1 k    11.1 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Friday, March 6, 2026 11:10:58 AM
+   Ended : Friday, March 6, 2026 11:34:08 AM
 
  
 [DEBUG] Counting source files 
@@ -190,7 +190,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, March 6, 2026 11:11:00 AM
+  Started : Friday, March 6, 2026 11:34:09 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\
 
@@ -200,8 +200,8 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		    4058	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\meta.lsx100%  
-	    New File  		   6.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\mod_publish_logo.png100%  
+	    New File  		    4059	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\meta.lsx100%  
+	    New File  		   6.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\mod_publish_logo.png  0%  100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\GUI\metadata.lsf100%  
 	    New File  		     903	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\Localization\English\english.xml100%  
 
@@ -214,9 +214,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           2328575000 Bytes/sec.
-   Speed :           133242.130 MegaBytes/min.
-   Ended : Friday, March 6, 2026 11:11:00 AM
+   Speed :           3492863000 Bytes/sec.
+   Speed :           199863.224 MegaBytes/min.
+   Ended : Friday, March 6, 2026 11:34:09 AM
 
  
 [DEBUG] Counting source files 
@@ -242,7 +242,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, March 6, 2026 11:11:01 AM
+  Started : Friday, March 6, 2026 11:34:11 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\
 
@@ -290,9 +290,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            34439695 Bytes/sec.
-   Speed :            1970.655 MegaBytes/min.
-   Ended : Friday, March 6, 2026 11:11:01 AM
+   Speed :            33004708 Bytes/sec.
+   Speed :            1888.544 MegaBytes/min.
+   Ended : Friday, March 6, 2026 11:34:11 AM
 
  
 [DEBUG] Counting source files 
@@ -318,7 +318,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, March 6, 2026 11:11:03 AM
+  Started : Friday, March 6, 2026 11:34:12 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\Generated\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\
 
@@ -328,14 +328,14 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		   46560	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\DGB_No_Crest\Crest\Female\DGB_F_NKD_Head_B_Top_NoCrest.GR2100%  
-	    New File  		   46560	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\DGB_No_Crest\Crest\Female\DGB_F_NKD_Head_C_Top_NoCrest.GR2100%  
-	    New File  		   52220	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\DGB_No_Crest\Crest\Female\DGB_F_NKD_Head_D_Top_NoCrest.GR2100%  
-	    New File  		   52220	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\DGB_No_Crest\Crest\Female\DGB_F_NKD_Head_E_Top_NoCrest.GR2100%  
 	    New File  		   52220	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\DGB_No_Crest\Crest\Male\DGB_M_NKD_Head_D_Top_NoCrest.GR2100%  
 	    New File  		   52220	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\DGB_No_Crest\Crest\Male\DGB_M_NKD_Head_E_Top_NoCrest.GR2100%  
 	    New File  		   52220	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\DGB_No_Crest\Crest\Male\DGB_M_NKD_Head_F_Top_NoCrest.GR2100%  
 	    New File  		   52220	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\DGB_No_Crest\Crest\Male\DGB_M_NKD_Head_G_Top_NoCrest.GR2100%  
+	    New File  		   46560	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\DGB_No_Crest\Crest\Female\DGB_F_NKD_Head_B_Top_NoCrest.GR2100%  
+	    New File  		   46560	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\DGB_No_Crest\Crest\Female\DGB_F_NKD_Head_C_Top_NoCrest.GR2100%  
+	    New File  		   52220	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\DGB_No_Crest\Crest\Female\DGB_F_NKD_Head_D_Top_NoCrest.GR2100%  
+	    New File  		   52220	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_No_Crest_e665cae5-687a-0cf3-7c4c-b6aa33487e03\DGB_No_Crest\Crest\Female\DGB_F_NKD_Head_E_Top_NoCrest.GR2100%  
 
 ------------------------------------------------------------------------------
 
@@ -346,9 +346,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            11954117 Bytes/sec.
-   Speed :             684.020 MegaBytes/min.
-   Ended : Friday, March 6, 2026 11:11:03 AM
+   Speed :            14515714 Bytes/sec.
+   Speed :             830.595 MegaBytes/min.
+   Ended : Friday, March 6, 2026 11:34:12 AM
 
  
 [DEBUG] Counting source files 
