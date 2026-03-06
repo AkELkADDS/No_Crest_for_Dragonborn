@@ -10,10 +10,10 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="7c538187-8c7f-4557-b850-e41a870c394b" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="00000000-0000-0000-0000-000000000000" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="e3abcd64-0df0-4182-860f-345216801f63" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4497bda1g8c54g4c6fg0c28g5a3718182d9b" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_No_Crest_MD" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_No_Crest_MD" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_D_Top_NoCrest" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -25,10 +25,10 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5746d348-ac7d-4013-a260-c3134550c778" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="00000000-0000-0000-0000-000000000000" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="18a42ad6-4bfd-48a2-b1e0-3ba101a4df40" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2be085bbg77d2g0782g891dg8067a140b48f" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_No_Crest_ME" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_No_Crest_ME" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_E_Top_NoCrest" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -40,10 +40,10 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="61abbc64-ed23-49fb-b52b-1c74e3ab4913" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="00000000-0000-0000-0000-000000000000" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="1907d203-d281-4ddd-8951-ca897097409f" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h86c2d2c4g90c7gadffg4f70gbc297013acab" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_No_Crest_MF" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_No_Crest_MF" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_F_Top_NoCrest" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -55,10 +55,10 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="485cf765-c1a7-4e88-9e91-8d4156650f3c" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="00000000-0000-0000-0000-000000000000" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="eb14ffd1-cb7f-4e6e-a615-56e615079adb" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h953239ecg45a1g78f7g5481ga1a7555c581c" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_No_Crest_MG" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_No_Crest_MG" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_G_Top_NoCrest" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -70,10 +70,10 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b031e42e-51d6-4b8a-a850-2aed444b455d" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="00000000-0000-0000-0000-000000000000" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="19628a0a-97bf-49e4-aa0a-2a9e06839f0a" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc1f3b5eag8d0fga9fdga572gb187572d8d7e" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_No_Crest_FB" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_No_Crest_FB" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_B_Top_NoCrest" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -85,10 +85,10 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="acbdd605-0156-479a-810a-aec1e4d65bfb" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="00000000-0000-0000-0000-000000000000" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="4598799d-c3b3-4ae8-bbd8-18292df5bfbc" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1746076ag93d4g5c55gb48aga0b14a03de19" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_No_Crest_FC" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_No_Crest_FC" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_C_Top_NoCrest" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -100,10 +100,10 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6e44bb2c-c821-4b36-8071-a55f9a57042c" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="00000000-0000-0000-0000-000000000000" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="e3984eb4-4d32-4b35-ba62-0847796fc7aa" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7ec237abg9489g77begf3fcgeeaee3a70436" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_No_Crest_FD" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_No_Crest_FD" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_D_Top_NoCrest" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -115,10 +115,10 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6ebd4210-029f-4f7d-b627-f9bb3414a4b7" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="00000000-0000-0000-0000-000000000000" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="73de8188-ff22-42df-b840-151acdacb61b" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha9c54837gd451g0b3ag9999g61bc1781cfba" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_No_Crest_FE" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_No_Crest_FE" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_E_Top_NoCrest" />
       </fields>
     </stat_object>
   </stat_objects>
